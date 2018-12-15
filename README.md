@@ -10,7 +10,7 @@
 
 [![Sponsored by DigitalOcean](/sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
 
-* Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a snippet.
+* Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>⌘</kbd> + <kbd>F</kbd> to search for a snippet.
 * Contributions welcome, please read the [contribution guide](CONTRIBUTING.md).
 * Snippets are written in ES6, use the [Babel transpiler](https://babeljs.io/) to ensure backwards-compatibility.
 * You can import these snippets into VSCode, by following the instructions found [here](https://github.com/30-seconds/30-seconds-of-code/tree/master/vscode_snippets).
